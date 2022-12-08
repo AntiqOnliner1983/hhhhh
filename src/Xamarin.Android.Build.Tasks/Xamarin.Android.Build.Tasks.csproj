@@ -37,7 +37,7 @@
     <PackageReference Include="FSharp.Core" Version="3.1.2.5" />
     <PackageReference Include="ILRepack" Version="2.0.18" />
     <PackageReference Include="Irony" Version="1.1.0" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
     <PackageReference Include="NuGet.Common" Version="$(NuGetApiPackageVersion)" />
     <PackageReference Include="NuGet.Configuration" Version="$(NuGetApiPackageVersion)" />
     <PackageReference Include="NuGet.DependencyResolver.Core" Version="$(NuGetApiPackageVersion)" />
